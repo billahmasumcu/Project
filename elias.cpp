@@ -4,4 +4,5 @@ main(){
 
 int a = b + c;
 
-cout
+return 0;
+}
